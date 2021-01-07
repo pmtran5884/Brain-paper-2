@@ -1,0 +1,239 @@
+Study.ID,Index.x,RNA.box,Column,Row,Code,Date.of.Core,ID.no,block.cored,core.location,core.id,Nanostring.or.submitted.ID,X.x,MRN,Count,Pathology.Report,Slides.pulled.as.of.1.8.2019,slide.order,blocks.pulled.as.of.2.8.2019,Attempted.slide.pull.10.30.2018,Attempted.slide.pull.11.06.2018,Attempted.slide.pull.11.13.2018,Attempted.block.pull.12.4.2018,Attempted.slide.pull.1.8.2019,Attempted.block.pull.1.8.2019,Attempted.slide.pull.1.29.2019,Attempted.block.pull.2.8.2019,Attempted.block.pull.3.4.2019,Preservation,Histo,X.y,core,need.slide,Index.y,Date.of.Birth,Sex,Race.1,Date.of.Last.Contact,Vital.Status,Primary.Site,Histo.Behavior.ICD.O.3,Yr.First.Seen.This.Prim,Block,Surg.Path.Report..1,Surg.Path.Report..2,Date.of.Initial.Diagnosis,CS.Tumor.Size,CS.Extension,CS.Tumor.Size.Ext.Eval,X1st.Course.Chemotherapy.Date,X1st.Course.Chemotherapy.Facility.Facility.Name,Reason.For.No.Chemotherapy,X1st.Course.Date.Radiation.Started,X1st.Course.Date.Radiation.Ended,X1st.Course.Dx.Staging.Proc.Facility.Facility.Name,Reason.For.No.Radiation,Date.of.First.Surgery,X1st.Course.Surg.Prim.Site.Facility.Facility.Name,Reason.For.No.Surgery,Final.Surgical.Margin,Chemo.Surgery.Sequence,RT.Surgery.Sequence,Cancer.Status
+BRAIN65,1,1,1,A,161970230,20190109,65,A1,A1,BRAIN65.A1.T.1.A1,BRAIN65,,97227,65,SP06-3635,A1,69,A1,y,,,y,NA,,,,NA,FFPE,astrocytoma,"r temporal lobe, grade 2",y,,300,6/24/1943,2  Female,01  White,5/21/2006,0  Dead,C710  Basal ganglia,"94003  Astrocytoma, NOS",2006,,SP06-3635,NA,4/10/2006,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Confined to brain, NOS
+Confined to meninges, NOS",Not applicable for this schema,00/00/0000,AU MEDICAL CENTER-GEORGIA CANCER CENTER,1  Chemotherapy not recommended,00/00/0000,00/00/0000,AU MEDICAL CENTER-GEORGIA CANCER CENTER,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,00/00/0000,AU MEDICAL CENTER-GEORGIA CANCER CENTER,1  Surg prim site not performed because not planned part of 1st course tx. Diagnosed at autopsy,8  No primary site surgery,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,2  Evidence of this tumor
+BRAIN26,13,1,1,B,161970984,20190114,26,B1,B1,BRAIN26.B1.T.1.B1,BRAIN26,,1252300,26,S03-4499,"A1, B1","26, 27",B1,y,,,y,NA,,,,NA,FFPE,oligodendroglioma,,B1,,1858,8/8/1951,1  Male,01  White,8/1/2014,1  Alive,C711  Frontal lobe,"94503  Oligodendroglioma, NOS",2003,,S03-4499,NA,4/15/2003,,,,00/00/0000,,1  Chemotherapy not recommended,05/99/2003,7/3/2003,,0  Radiation therapy was administered,4/15/2003,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,7  Margins not evaluable,0  No chemo and/or no surgery administered,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN33,16,1,4,B,161970987,20190114,33,F1,B4,BRAIN33.F1.T.1.B4,BRAIN33,,1234942,33,S0211556,A1 recut;F1 recut,"32, 33",F1,,y,,y,NA,,,,NA,FFPE,astrocytoma,,B4,,362,9/11/1942,2  Female,01  White,1/22/2004,0  Dead,C710  Cerebral cortex,"94013  Astrocytoma, anaplastic",2002,,S0211556,NA,9/25/2002,,,,00/00/0000,,1  Chemotherapy not recommended,11/25/2002,99/99/9999,,0  Radiation therapy was administered,10/30/2002,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,3  Radiation therapy after surgery,2  Evidence of this tumor
+BRAIN3,4,1,4,A,161971004,20190114,3,B1,A4,BRAIN3.B1.T.1.A4,BRAIN3,,1207223,3,SP13-8686,B1,3,B1,y,,,y,NA,,,,NA,FFPE,oligodendroglioma,,A4,,117,10/7/1979,1  Male,01  White,5/17/2014,0  Dead,C711  Frontal lobe,93823  Oligoastrocytoma,2013,,SP13-8686,NA,9/4/2013,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,9/4/2013,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN6,5,1,5,A,161971003,20190114,6,A3,A5,BRAIN6.A3.T.1.A5,BRAIN6,,1499226,6,SP08-8764,A3,5,A3,y,,,y,NA,,,,NA,FFPE,oligodendroglioma,,A5,,271,6/7/1968,2  Female,01  White,7/24/2015,1  Alive,C711  Frontal lobe,"94503  Oligodendroglioma, NOS",2008,,SP08-8764,NA,9/16/2008,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,10/8/2008,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN4,6,1,6,A,161971002,20190114,4,B1,A6,BRAIN4.B1.T.1.A6,BRAIN4,,1492913,4,SP08-7806,B1,4,B1,y,,,y,NA,,,,NA,FFPE,oligoastrocytoma,,A6,,248,5/18/1966,1  Male,01  White,7/19/2015,0  Dead,C711  Frontal lobe,93823  Oligoastrocytoma,2008,1p19q;B,SP08-7806,NA,9/9/2008,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,9/9/2008,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN17,10,1,10,A,161970998,20190114,17B,A1,A10,BRAIN17.A1.T.1.A10,BRAIN17B,,1388135,17,S06-402,A1,15,A1,y,,,y,NA,,,,NA,FFPE,oligodendroglioma,,"A9(fat), A10(glandular)",,1217,9/4/1947,1  Male,01  White,4/13/2011,0  Dead,C712  Temporal lobe,"94503  Oligodendroglioma, NOS",2006,,OC06-00608,NA,1/19/2006,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,2/22/2006,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,1/19/2006,AIKEN REGIONAL MEDICAL CENTERS,0  Surgery of primary site was performed,9  Unknown or not applicable; death certificate ONLY,2  Chemo administered after surgery,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN19,11,1,11,A,161970997,20190114,19,B1,A11,BRAIN19.B1.T.1.A11,BRAIN19,,1643103,19,SP14-0045,B1,17,B1,y,,,y,NA,,,,NA,FFPE,oligodendroglioma,,A11,,1476,4/8/2011,2  Female,01  White,3/16/2018,1  Alive,C711  Frontal lobe,"94503  Oligodendroglioma, NOS",2014,,SP14-0045,NA,1/2/2014,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,1/2/2014,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN22,12,1,12,A,161970996,20190114,22,C1,A12,BRAIN22.C1.T.1.A12,BRAIN22,,1256964,22,S037581,"C1, G1","21, 22",C1,y,,,y,NA,,,,NA,FFPE,oligodendroglioma,,"A12(C1 pulled, G1 would have been better)",,1684,12/29/1960,1  Male,01  White,7/3/2003,0  Dead,C712  Temporal lobe,"94503  Oligodendroglioma, NOS",2003,,S037581,NA,4/25/2003,,,,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,5  RT not admin; Pt died prior to planned/recommended therapy,6/26/2003,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,"1  Residual tumor, NOS",0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,2  Evidence of this tumor
+BRAIN37,19,1,7,B,161970990,20190114,37,B1,B7,BRAIN37.B1.T.1.B7,BRAIN37,,1059178,37,S036952,B1,37,B1,,y,,y,NA,,,,NA,FFPE,astrocytoma,,B7,,1843,11/21/1974,2  Female,01  White,11/3/2016,1  Alive,C711  Frontal lobe,"94003  Astrocytoma, NOS",2003,,S036952,NA,6/11/2003,,,,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,6/11/2003,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN42,24,1,12,B,161970995,20190116,42 D1,D1,B12,BRAIN42.D1.T.1.B12,BRAIN42.D1,,1285191,42,S0314495,C1 recut; D1,"42, 43","C1, D1",,y,,y,NA,,,,NA,FFPE,astrocytoma,,"B11(c1), B12(D1)",,1803,3/24/1956,1  Male,01  White,1/16/2005,0  Dead,C712  Temporal lobe,"94003  Astrocytoma, NOS",2003,,S0314495,NA,12/16/2003,,,,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,12/16/2003,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,3  Macroscopic residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,2  Evidence of this tumor
+BRAIN49,26,1,2,C,161970982,20190116,49,B3,C2,BRAIN49.B3.T.1.C2,BRAIN49,,1299586,49,S044854,"B3, F4","51, 52",B3,,y,,y,NA,,,,NA,FFPE,astrocytoma,,C2,,1386,3/3/1968,1  Male,01  White,12/29/2007,0  Dead,C712  Temporal lobe,"94003  Astrocytoma, NOS",2004,,S044854,NA,5/6/2004,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,AU MEDICAL CENTER-GEORGIA CANCER CENTER,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,5/6/2004,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,"1  Residual tumor, NOS",0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN73,32,1,8,C,161970976,20190116,73,A2,C8,BRAIN73.A2.T.1.C8,BRAIN73,,1443131,73,SP07-6436,A2,75,A2,y,,,y,NA,,,,NA,FFPE,astrocytoma,,C8,,758,12/17/1998,1  Male,01  White,6/11/2013,1  Alive,C713  Parietal lobe,"94013  Astrocytoma, anaplastic",2007,,SP07-6436,NA,5/31/2007,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,8/8/2007,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN75,33,1,9,C,161970975,20190116,75,A2,C9,BRAIN75.A2.T.1.C9,BRAIN75,,1453846,75,SP08-1343,"A1, A2","76, 77",A2,y,,,y,NA,,,,NA,FFPE,astrocytoma,,C9,,295,11/16/2004,1  Male,01  White,1/23/2014,1  Alive,C712  Temporal lobe,"94003  Astrocytoma, NOS",2007,,SP08-1343,NA,8/23/2007,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,2/11/2008,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN47,25,1,1,C,161970983,20190116,47,A1,C1,BRAIN47.A1.T.1.C1,BRAIN47,,1300497,47,S043358,A1,49,A1,,y,,y,NA,,,,NA,FFPE,astrocytoma,,C1,,1416,1/1/2001,2  Female,01  White,4/2/2004,1  Alive,C714  Occipital lobe,"94203  Astrocytoma, fibrillary",2004,,S043358,NA,3/29/2004,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,3/29/2004,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN39,21,1,9,B,161970992,20190116,39,B1,B9,BRAIN39.B1.T.1.B9,BRAIN39,,9022150,39,S0312689,B1,39,B1,,y,,y,NA,,,,NA,FFPE,astrocytoma,,B9,,1598,3/15/1968,1  Male,01  White,12/7/2007,0  Dead,"C718  Brain, overlapping lesion","94013  Astrocytoma, anaplastic",2003,,S0312689,NA,9/28/2003,,,,11/99/2003,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,11/19/2003,1/9/2004,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Radiation therapy was administered,00/00/0000,,1  Surg prim site not performed because not planned part of 1st course tx. Diagnosed at autopsy,8  No primary site surgery,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,2  Evidence of this tumor
+BRAIN72,31,1,7,C,161970977,20190116,72,A1,C7,BRAIN72.A1.T.1.C7,BRAIN72,,1449018,72,SP07-10064,A1,74,A1,y,,,y,NA,,,,NA,FFPE,astrocytoma,,C7,antonella has it,1089,3/17/1988,1  Male,01  White,8/1/2014,1  Alive,C713  Parietal lobe,"94003  Astrocytoma, diffuse, low grade",2007,,SP07-10064,NA,3/22/2007,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,11/30/2007,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN8,7,1,7,A,161970200,20190114,8,M1,A7,BRAIN8.M1.T.1.A7,BRAIN8,,1280288,8,S045391,M1,7,M1,y,,,y,NA,,,,NA,FFPE,oligoastrocytoma,,A7,,848,10/30/1969,2  Female,01  White,12/9/2011,0  Dead,C711  Frontal lobe,93823  Oligoastrocytoma,2004,,S045391,NA,4/9/2004,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,88/88/8888,,"8  Chemotherapy recommended, unk if administered",99/99/9999,99/99/9999,,"8  RT recommended, unk if administered",5/21/2004,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,"1  Residual tumor, NOS",0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN12,8,1,8,A,161971000,20190114,12,C1,A8,BRAIN12.C1.T.1.A8,BRAIN12,,566694,12,S057536,C1,10,C1,y,,,y,NA,,,,NA,FFPE,oligoastrocytoma,,A8,,966,4/23/1970,2  Female,01  White,8/1/2014,1  Alive,C711  Frontal lobe,93823  Oligoastrocytoma,2005,,S057536,NA,7/25/2005,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,8/3/2005,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,3  Macroscopic residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,2  Evidence of this tumor
+X14609.01.02.01,NA,NA,NA,,NA,NA,,,,X14609.01.02.01,X14609.01.02.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,oligodendroglioma,,,,NA,,,,,,,"94503  Oligodendroglioma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+X08846.01.02.01,NA,NA,NA,,NA,NA,,,,X08846.01.02.01,X08846.01.02.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,oligodendroglioma,,,,NA,,,,,,,"94503  Oligodendroglioma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+X14099.01.02.01,NA,NA,NA,,NA,NA,,,,X14099.01.02.01,X14099.01.02.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,glioblastoma,,,,NA,,,,,,,"94403  Glioblastoma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+X14329.01.02.01,NA,NA,NA,,NA,NA,,,,X14329.01.02.01,X14329.01.02.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,glioblastoma,,,,NA,,,,,,,"94403  Glioblastoma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+X13784.01.02.01,NA,NA,NA,,NA,NA,,,,X13784.01.02.01,X13784.01.02.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,glioblastoma,,,,NA,,,,,,,"94403  Glioblastoma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+X13558.01.05.01,NA,NA,NA,,NA,NA,,,,X13558.01.05.01,X13558.01.05.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,glioblastoma,,,,NA,,,,,,,"94403  Glioblastoma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+X13836.01.02.01,NA,NA,NA,,NA,NA,,,,X13836.01.02.01,X13836.01.02.01,,NA,NA,,,,,,,,,NA,,,,NA,Frozen,glioblastoma,,,,NA,,,,,,,"94403  Glioblastoma, NOS",NA,,,NA,,,,,,,,,,,,,,,,,,
+BRAIN205,112,2,4,B,161971275,20190318,,A1,B4,BRAIN205.A1.T.2.B4,BRAIN205.A1.T.2.B4,,1563755,205,SP10000385,"A1-1,A1-2",,A1,,,,,NA,,y,y,NA,FFPE,glioblastoma,,E7,,662,8/26/1953,1  Male,01  White,6/13/2010,0  Dead,C710  Thalamus,94403  Glioblastoma multiforme,2010,,SP10000385,NA,4/6/2010,"Unknown; size not stated
+Size of tumor cannot be assessed
+Not documented in patient record","Supratentorial tumor extends infratentorially to involve: 
+    Cerebellum
+    Brain stem
+    Hypothalamus
+    Pallium
+    Posterior cranial fossa
+    Thalamus",Not applicable for this schema,00/00/0000,,0  Chemotherapy administered,4/14/2010,6/10/2010,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Radiation therapy was administered,00/00/0000,,1  Surg prim site not performed because not planned part of 1st course tx. Diagnosed at autopsy,8  No primary site surgery,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,2  Evidence of this tumor
+BRAIN207,115,2,7,B,161971278,20190318,,B2,B7,BRAIN207.B2.T.2.B7,BRAIN207.B2.T.2.B7,"(B2, PREFERABLE)",1131186,207,SP10-5379,"B1, B2",,"B1, B2",,,,,NA,,y,y,NA,FFPE,glioblastoma,,E9,,1695,12/22/1951,2  Female,01  White,9/15/2015,0  Dead,C713  Parietal lobe,"94403  Glioblastoma, NOS",2010,,SP10-5379,NA,6/24/2010,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,7/20/2010,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,8/2/2010,9/16/2010,,0  Radiation therapy was administered,6/24/2010,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN260,104,2,8,A,161971288,20190315,,A2,A8,BRAIN260.A2.T.2.A8,BRAIN260.A2.T.2.A8,,1817443,260,SP16-2210,"A1, A2",,"A1, A2",,,,,NA,,y,y,NA,FFPE,glioblastoma,,D11,,1575,9/17/1944,2  Female,01  White,8/28/2018,1  Alive,C711  Frontal lobe,"94403  Glioblastoma, NOS",2016,,SP16-2210,NA,2/26/2016,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,3/23/2016,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,4/4/2016,5/13/2016,,0  Radiation therapy was administered,2/29/2016,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN259,105,2,9,A,161970224,20190315,,B3,A9,BRAIN259.B3.T.2.A9,BRAIN259.B3.T.2.A9,,1815419,259,SP16-1564,"B3, B4",,"B3, B4",,,,,NA,,y,y,NA,FFPE,glioblastoma,,"D12,E1",,1733,4/20/1955,1  Male,01  White,2/24/2017,0  Dead,C711  Frontal lobe,"94403  Glioblastoma, NOS",2016,,SP16-1564,NA,2/9/2016,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,2/11/2016,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN255,109,2,1,B,161971272,20190318,,A2,B1,BRAIN255.A2.T.2.B1,BRAIN255.A2.T.2.B1,,1796516,255,SP15-9534,A2,,A1,,,,,NA,,y,y,NA,FFPE,glioblastoma,,E4,,422,3/1/1970,1  Male,01  White,4/10/2017,1  Alive,C712  Temporal lobe,"94403  Glioblastoma, NOS",2015,,SP15-9534,NA,9/8/2015,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,10/19/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,10/19/2015,12/2/2015,,0  Radiation therapy was administered,9/8/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN219,130,2,10,C,161971262,20190318,,B1,C10,BRAIN219.B1.T.2.C10,BRAIN219.B1.T.2.C10,,1228439,219,SP11-6480,"B1, B6",,B1,,,,,NA,,y,y,NA,FFPE,glioblastoma,,F7,,237,2/27/1938,2  Female,02  Black,8/23/2011,0  Dead,C711  Frontal lobe,"94403  Glioblastoma, NOS",2011,,SP11-6480,NA,7/20/2011,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,7/20/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN207,116,2,8,B,161971279,20190318,,B1,B8,BRAIN207.B1.T.2.B8,BRAIN207.B1.T.2.B8,,1131186,207,SP10-5379,"B1, B2",,"B1, B2",,,,,NA,,y,y,NA,FFPE,glioblastoma,,E9,,1695,12/22/1951,2  Female,01  White,9/15/2015,0  Dead,C713  Parietal lobe,"94403  Glioblastoma, NOS",2010,,SP10-5379,NA,6/24/2010,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,7/20/2010,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,8/2/2010,9/16/2010,,0  Radiation therapy was administered,6/24/2010,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN212,124,2,4,C,161971268,20190318,,A2,C4,BRAIN212.A2.T.2.C4,BRAIN212.A2.T.2.C4,,1589546,212,SP10-10684,"A2, B1",,A2,,,,,NA,,y,y,NA,FFPE,glioblastoma,,F3,,1477,11/30/1936,1  Male,01  White,1/2/2011,0  Dead,C714  Occipital lobe,"94403  Glioblastoma, NOS",2010,,SP10-10684,NA,12/3/2010,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,12/3/2010,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,9  Unknown whether this tumor is present
+BRAIN215,125,2,5,C,161971267,20190318,,B1,C5,BRAIN215.B1.T.2.C5,BRAIN215.B1.T.2.C5,,1600640,215,SP11-2231,B1,,B1,,,,,NA,,y,y,NA,FFPE,glioblastoma,,F4,,1213,4/21/1933,1  Male,01  White,3/17/2013,0  Dead,C714  Occipital lobe,"94403  Glioblastoma, NOS",2011,,SP11-2231,NA,3/10/2011,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,3/10/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN217,127,2,7,C,161971265,20190318,,A2,C7,BRAIN217.A2.T.2.C7,BRAIN217.A2.T.2.C7,,1592359,217,SP11-5254,"A2, A5, A6",,"A2, A5, A6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,F6,,1809,5/14/1946,1  Male,02  Black,1/29/2012,0  Dead,C711  Frontal lobe,"94403  Glioblastoma, NOS",2011,,SP11-5254,NA,6/8/2011,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,7/25/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,7/25/2011,9/8/2011,,0  Radiation therapy was administered,6/9/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN217,128,2,8,C,161971264,20190318,,A5,C8,BRAIN217.A5.T.2.C8,BRAIN217.A5.T.2.C8,,1592359,217,SP11-5254,"A2, A5, A6",,"A2, A5, A6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,F6,,1809,5/14/1946,1  Male,02  Black,1/29/2012,0  Dead,C711  Frontal lobe,"94403  Glioblastoma, NOS",2011,,SP11-5254,NA,6/8/2011,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,7/25/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,7/25/2011,9/8/2011,,0  Radiation therapy was administered,6/9/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN217,129,2,9,C,161971263,20190318,,A6,C9,BRAIN217.A6.T.2.C9,BRAIN217.A6.T.2.C9,,1592359,217,SP11-5254,"A2, A5, A6",,"A2, A5, A6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,F6,,1809,5/14/1946,1  Male,02  Black,1/29/2012,0  Dead,C711  Frontal lobe,"94403  Glioblastoma, NOS",2011,,SP11-5254,NA,6/8/2011,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,7/25/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,7/25/2011,9/8/2011,,0  Radiation therapy was administered,6/9/2011,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN250,156,2,12,E,161971236,20190319,,B1,E12,BRAIN250.B1.T.2.E12,BRAIN250.B1.T.2.E12,,1778069,250,SP15-3738,"B1, C1",,"B1, C1",,,,,NA,,y,y,NA,FFPE,glioblastoma,,H2,,132,12/10/1959,1  Male,02  Black,3/14/2016,1  Alive,C711  Frontal lobe,"94403  Glioblastoma, NOS",2015,,SP15-3738,NA,4/8/2015,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,4/29/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,5/20/2015,7/7/2015,,0  Radiation therapy was administered,4/10/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
+BRAIN252,157,2,1,F,161971224,20190320,,B4,F1,BRAIN252.B4.T.2.F1,BRAIN252.B4.T.2.F1,,1784525,252,SP15-6891,"B3, B4",,"B3, B4",,,,,NA,,y,y,NA,FFPE,glioblastoma,,H3,,1848,6/24/1941,2  Female,01  White,9/8/2015,0  Dead,"C718  Brain, overlapping lesion","94403  Glioblastoma, NOS",2015,,SP15-6891,NA,7/5/2015,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,7/5/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN231,139,2,7,D,161971254,20190319,,B1,D7,BRAIN231.B1.T.2.D7,BRAIN231.B1.T.2.D7,,1705883,231,SP13-8894,"B1, B2",,"B1, B2",,,,,NA,,y,y,NA,FFPE,glioblastoma,,G2,,1836,3/9/1962,2  Female,01  White,9/21/2013,0  Dead,C711  Frontal lobe,"94403  Glioblastoma, NOS",2013,,SP13-8894,NA,9/6/2013,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,9/10/2013,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN234,142,2,10,D,161971257,20190319,,A7,D10,BRAIN234.A7.T.2.D10,BRAIN234.A7.T.2.D10,,1673769,234,SP13-0835,"A5, A7",,A7,,,,,NA,,y,y,NA,FFPE,glioblastoma,,G4,,210,7/21/1942,2  Female,02  Black,7/4/2013,0  Dead,C712  Temporal lobe,"94403  Glioblastoma, NOS",2013,,SP13-0835,NA,12/3/2012,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,1/25/2013,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN235,143,2,11,D,161971258,20190319,,B1,D11,BRAIN235.B1.T.2.D11,BRAIN235.B1.T.2.D11,,202574,235,SP13-12480,"B1, B6",,"B1, B6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,G5,,1823,3/14/1959,2  Female,01  White,12/14/2014,0  Dead,C712  Temporal lobe,"94403  Glioblastoma, NOS",2013,,SP13-12480,NA,12/17/2013,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,2/5/2014,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,2/10/2014,3/24/2014,,0  Radiation therapy was administered,12/20/2013,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,2  Evidence of this tumor
+BRAIN247,152,2,8,E,161971240,20190319,,B5,E8,BRAIN247.B5.T.2.E8,BRAIN247.B5.T.2.E8,"B6, BEST",1449565,247,SP14-12808,"B4, B5, B6",,"B4, B5, B6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,H1,,402,11/10/1944,2  Female,01  White,2/12/2015,0  Dead,C712  Temporal lobe,"94403  Glioblastoma, NOS",2014,,SP14-12808,NA,12/30/2014,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,12/30/2014,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN247,154,2,10,E,161971238,20190319,,B6,E10,BRAIN247.B6.T.2.E10,BRAIN247.B6.T.2.E10,,1449565,247,SP14-12808,"B4, B5, B6",,"B4, B5, B6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,H1,,402,11/10/1944,2  Female,01  White,2/12/2015,0  Dead,C712  Temporal lobe,"94403  Glioblastoma, NOS",2014,,SP14-12808,NA,12/30/2014,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,12/30/2014,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN252,87,1,3,H,161970914,20190304,,B3,H3,BRAIN252.B3.T.1.H3,BRAIN252.T.1.H3,,1784525,252,SP15-6891,"B3, B4",,"B3, B4",,,,,NA,,y,y,NA,FFPE,glioblastoma,,H3,,1848,6/24/1941,2  Female,01  White,9/8/2015,0  Dead,"C718  Brain, overlapping lesion","94403  Glioblastoma, NOS",2015,,SP15-6891,NA,7/5/2015,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,00/00/0000,,1  Chemotherapy not recommended,00/00/0000,00/00/0000,,1  RT not administered because not planned part of first course tx. Diagnosed at autopsy,7/5/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,0  No chemo and/or no surgery administered,0  No radiation therapy and/or ca directed surgery; autopsy only,1  No evidence of this tumor
+BRAIN235,77,1,5,G,161970931,20190304,,B1,G5,BRAIN235.B1.T.1.G5,BRAIN235.T.1.G5,,202574,235,SP13-12480,"B1, B6",,"B1, B6",,,,,NA,,y,y,NA,FFPE,glioblastoma,,G5,,1823,3/14/1959,2  Female,01  White,12/14/2014,0  Dead,C712  Temporal lobe,"94403  Glioblastoma, NOS",2013,,SP13-12480,NA,12/17/2013,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,2/5/2014,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,2/10/2014,3/24/2014,,0  Radiation therapy was administered,12/20/2013,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,2  Evidence of this tumor
+BRAIN250,86,1,2,H,161970913,20190304,,B1,H2,BRAIN250.B1.T.1.H2,BRAIN250.T.1.H2,,1778069,250,SP15-3738,"B1, C1",,"B1, C1",,,,,NA,,y,y,NA,FFPE,glioblastoma,,H2,,132,12/10/1959,1  Male,02  Black,3/14/2016,1  Alive,C711  Frontal lobe,"94403  Glioblastoma, NOS",2015,,SP15-3738,NA,4/8/2015,,"Supratentorial tumor confined to:
+    Cerebral hemisphere (cerebrum) or meninges of cerebral hemisphere (one side):
+        Frontal lobe
+        Occipital lobe
+        Parietal lobe
+        Temporal lobe",Not applicable for this schema,4/29/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Chemotherapy administered,5/20/2015,7/7/2015,,0  Radiation therapy was administered,4/10/2015,AU MEDICAL CENTER-GEORGIA CANCER CENTER,0  Surgery of primary site was performed,0  No residual tumor,2  Chemo administered after surgery,3  Radiation therapy after surgery,1  No evidence of this tumor
